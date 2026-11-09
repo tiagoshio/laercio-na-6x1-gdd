@@ -11,10 +11,14 @@
             "id": "e758e0c6b1bb55a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CHARACTERS/LAERCIO.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "LAERCIO"
             }
           }
         ]
@@ -181,8 +185,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "28d41823066dbb83",
+  "active": "e758e0c6b1bb55a8",
   "lastOpenFiles": [
+    "CHARACTERS/ENEMIES/ALIENÍGENA CHEFE.md",
+    "MECHANICS/Dispositivo Antigravidade.md",
+    "Caindo para cima.md",
     "Sem título.canvas",
     "ASSETS/alien-boss.ase",
     "INTERFACE/win-screen.ase",
@@ -204,12 +211,9 @@
     "ASSETS/laercio2.png",
     "ASSETS/laercio1.gif",
     "ASSETS/laercio3.jpg",
-    "Caindo para cima.md",
     "Sem título.md",
     "LEVEL_DESIGN/FASE 1, 2, 3 e 4.md",
     "CHARACTERS/LAERCIO.md",
-    "MECHANICS/Dispositivo Antigravidade.md",
-    "CHARACTERS/ENEMIES/ALIENÍGENA CHEFE.md",
     "CHARACTERS/ENEMIES/Sem título.md",
     "Bem-vindo.md"
   ]
